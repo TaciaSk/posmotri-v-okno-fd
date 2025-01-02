@@ -1,0 +1,73 @@
+.page {
+    display: flex;
+    
+}
+.content{
+    display: grid;
+    grid-template-rows: 1fr;
+}
+.result{
+    
+
+}
+.result__video-container{
+ 
+
+}
+.result__video {
+
+}
+.search-form {
+   
+
+}
+.search-form__fieldset{
+   
+
+}
+.search-form__fieldset-title{
+
+}
+.search-form__label{
+
+}
+.search-form__label-text visually-hidden{
+
+}
+.search-form__textfield{
+
+}
+.search-form__checkbox-list{
+
+}
+.search-form__checkbox visually-hidden{
+
+}
+.search-form__pseudo-checkbox{
+
+}
+.search-form__label-text{
+
+}
+
+.button{
+}
+
+.search-form__submit-button{
+
+}
+.content__details{
+
+}
+.title{
+
+}
+.content__accent{
+
+}
+.content__list-container{
+
+}
+.content__list{
+
+}
