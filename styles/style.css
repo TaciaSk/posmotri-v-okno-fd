@@ -73,7 +73,7 @@ ol {
 .result__video-container {
   position: relative;
   margin-top: 78px;
-  margin-bottom: 17px;
+  margin-bottom: 18px;
   height: 386px;
 }
 
@@ -238,7 +238,7 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox::after {
 
 .content__list-container {
   position: relative;
-  height: 316px;
+  height: 298px;
   overflow: auto;
 }
 
