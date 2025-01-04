@@ -59,7 +59,7 @@ ol {
   gap: 30px;
   max-width: 1140px;
   min-height: 534px;
-  margin-top: 133px;
+  margin-top: 266px;
   margin-bottom: 133px;
 }
 
@@ -246,18 +246,6 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox::after {
   display: flex;
   flex-direction: column;
   gap: 30px;
-}
-
-.preloader-template {
-  position: absolute;
-}
-
-.preloader {
-  position: absolute;
-}
-
-.preloader-chasing-squares {
-  position: absolute;
 }
 
 .content__list-item {
